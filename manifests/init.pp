@@ -1,5 +1,5 @@
 class riak {
-	$package_filename = "riak_0.14.2-1_${architecture}.deb"
+	$package_filename = "riak_1.0.3-1_amd64.deb"
 	$package_location = "/opt/packages/${package_filename}"
 
 	file {
